@@ -24,3 +24,7 @@ set autoindent
 set cindent
 set nu
 
+map <C-s><C-s> :tabnew<CR>
+map <C-[> :tabp<CR>
+map <C-]> :tabn<CR>
+
