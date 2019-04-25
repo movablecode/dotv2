@@ -28,7 +28,7 @@ set cindent
 "set nu
 set encoding=utf-8
 
-map <C-a><C-a> :tabnew<CR>
+map <C-s><C-s> :tabnew<CR>
 map <C-[> :tabp<CR>
 map <C-]> :tabn<CR>
 
